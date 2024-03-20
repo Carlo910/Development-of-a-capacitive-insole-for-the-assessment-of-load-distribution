@@ -10,3 +10,5 @@ This project was a key part of the Technologies for Sensors course in the first 
 The project's objective was to craft a prototype of a sensorized insole, employing capacitive sensing technology to measure foot load distribution during walking.
 
 Additional details on the project's goals and the construction of our prototype can be found in the "final_presentation.ppt" PowerPoint presentation.
+
+The "RECEIVER.ino" and "TRANSMITTER.ino" file are the script developed with the Arduino IDE sfotware for the Receiver and Transmitter circuit respectively. 
