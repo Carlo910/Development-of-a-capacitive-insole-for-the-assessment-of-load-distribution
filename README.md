@@ -1,0 +1,1 @@
+# Development-of-a-capacitive-insole-for-the-assessment-of-load-distribution
