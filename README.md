@@ -12,3 +12,5 @@ The project's objective was to craft a prototype of a sensorized insole, employi
 Additional details on the project's goals and the construction of our prototype can be found in the "final_presentation.ppt" PowerPoint presentation.
 
 The "RECEIVER.ino" and "TRANSMITTER.ino" file are the script developed with the Arduino IDE sfotware for the Receiver and Transmitter circuit respectively. 
+
+You can view the final outcomes, the graphical user interface (GUI), and a demonstration of the prototype in action in a video available here: https://youtu.be/Wyx5I3sb8is.
